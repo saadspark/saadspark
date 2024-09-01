@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Ahmad</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan, dedicated to crafting innovative solutions and driving technological advancements</h3>
+<h3 align="center">A passionate Software Engineer, dedicated to crafting innovative solutions and driving technological advancements</h3>
 
 - 🔭 I’m currently working on [100 python projects](https://github.com/saadspark/100_Days_Of_Python_Projects)
 
